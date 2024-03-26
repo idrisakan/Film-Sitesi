@@ -4,5 +4,5 @@
 
 -Ekran Görüntüsü
 
-<img src="ekran.gif"/># Film-sitesi
-# Film-sitesi
+<img src="ekran.gif"/>
+# film
